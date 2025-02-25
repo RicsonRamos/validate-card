@@ -1,7 +1,3 @@
-Aqui está um modelo de README para o seu projeto no GitHub:
-
----
-
 # Desafio DIO - Validador de Cartões de Crédito
 
 Este projeto foi desenvolvido como parte de um desafio proposto pela [DIO](https://www.dio.me/) (Digital Innovation One). O objetivo foi criar um validador de números de cartões de crédito utilizando o algoritmo de Luhn e identificar a bandeira do cartão com base no número.
